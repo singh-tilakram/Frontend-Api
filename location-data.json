@@ -1,0 +1,58 @@
+{
+  "locations": [
+    {
+      "province": {
+        "name": "Lumbini Province",
+        "district": {
+          "name": "Rupandehi",
+          "municipality": {
+            "name": "Lumbini Sanskritik Municipality",
+            "type": "urban",
+            "ward": {
+              "name": "Ward Number 10",
+              "village": {
+                "name": "Small Mahilwar"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "province": {
+        "name": "Bagmati Province",
+        "district": {
+          "name": "Rupandehi",
+          "municipality": {
+            "name": "Lumbini Sanskritik Municipality",
+            "type": "urban",
+            "ward": {
+              "name": "Ward Number 10",
+              "village": {
+                "name": "Big Village"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "province": {
+        "name": "Bagmati Province",
+        "district": {
+          "name": "Kapilvastu",
+          "municipality": {
+            "name": "Lumbini Sanskritik Municipality",
+            "type": "urban",
+            "ward": {
+              "name": "Ward Number 10",
+              "village": {
+                "name": "Laxmipur"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
